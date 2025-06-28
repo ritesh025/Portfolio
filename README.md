@@ -1,15 +1,81 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🚀 3D Portfolio
+A modern and interactive 3D portfolio built with React, Vite, GSAP, Three.js, and GLBModel, deployed on Vercel.
 
-Currently, two official plugins are available:
+🔗 Live Site: ritesh-portfolio-navy.vercel.app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌟Features
+- 🧑‍💻 Interactive 3D Designs using Three.js and GSAP for smooth animations and transitions.
 
-## Expanding the ESLint configuration
+- 💻 Fast Development Environment powered by Vite for quick builds and hot-reloading.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🖼️ GLB Models to display 3D assets in your portfolio, enhancing user experience with cutting-edge technology.
+
+- 🌐 Deployed on Vercel, ensuring seamless performance and global access.
 
 
-using gsap, three.js, tailwind css, GLB 3d model, 
+## 🔐Installation
+To run this project locally, follow these steps:
+
+- **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/3d-portfolio.git
+
+ - **Install dependencies**:
+    ```bash 
+    npm install
+    npm run dev
+
+- Visit http://localhost:5173 in your browser.
+
+  
+## 🛠️ Technologies Used
+- React – For building the interactive UI.
+
+- Vite – A fast build tool for React projects.
+
+- GSAP – For smooth and responsive animations.
+
+- Three.js – For 3D rendering and graphics.
+
+- GLB Models – Displaying 3D models using GLTF format.
+
+- Vercel – For deployment and continuous integration.
+
+  
+## 🤝Contributing
+
+We welcome contributions! If you would like to improve Traip AI Trip Planner, feel free to fork the repository, create a feature branch, and submit a pull request.
+
+Fork the repository
+
+Create a new branch (git checkout -b feature-branch)
+
+Make your changes
+
+Commit your changes (git commit -am 'Add new feature')
+
+Push to the branch (git push origin feature-branch)
+
+Create a pull request
+
+
+## ✨Usage Guide
+
+- Navigate through the interactive 3D environment powered by Three.js.
+
+- Check out my skills, projects, and certifications by scrolling through the sections.
+
+- Links to my social media profiles are available to connect with me.
+
+- The project is responsive and looks great on both desktop and mobile devices.
+
+
+
+
+
+
+
+
+
+
