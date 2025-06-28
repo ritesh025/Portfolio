@@ -42,6 +42,8 @@ To run this project locally, follow these steps:
 
 - Vercel – For deployment and continuous integration.
 
+- Emailjs - For creating connection using Email.
+
   
 ## 🤝Contributing
 
