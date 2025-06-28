@@ -2,7 +2,7 @@
 # 🚀 3D Portfolio
 A modern and interactive 3D portfolio built with React, Vite, GSAP, Three.js, and GLBModel, deployed on Vercel.
 
-🔗 Live Site: ritesh-portfolio-navy.vercel.app
+🔗 Live Site: [ritesh-portfolio-navy.vercel.app](https://ritesh-portfolio-navy.vercel.app/)
 
 ## 🌟Features
 - 🧑‍💻 Interactive 3D Designs using Three.js and GSAP for smooth animations and transitions.
